@@ -22,7 +22,7 @@
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
                         <p>I am a hard-working, highly motivated and self-taught programmer with 2 years of
-                           experience in building web interfaces that drive businesses results.
+                           experience in building web interfaces that drive business results.
                            I work with tools such as SASS, React, Redux, Node, Express, and Bootstrap, to
                            name a few.</p>
                         <br />
