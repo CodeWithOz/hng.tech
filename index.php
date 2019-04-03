@@ -32,12 +32,17 @@
       case '/interns' :
           require __DIR__ . '/views/interns.php';
           break;
+      case '/interns/richard' :
+          require __DIR__ . '/views/interns/richard.php';
+          break;
       case '/interns/current' :
           require __DIR__ . '/views/current.php';
           break;
           case '/become-intern' :
           require __DIR__ . '/views/become-intern.php';
           break;
+        case '/intern/Akin' :
+          require __DIR__ . '/views/Akin.php';
       case '/interns/template' :
           require __DIR__ . '/views/interns/template.php';
           break;
@@ -55,6 +60,9 @@
       case '/interns/mayflower' :
           require __DIR__ . '/views/interns/mayflower.php';
           break;
+      case '/interns/chiaju' :
+          require __DIR__ . '/views/interns/chiaju.php';
+      break;
      case '/interns/hackthievist' :
           require __DIR__ . '/views/hackthievist.php';
           break;
