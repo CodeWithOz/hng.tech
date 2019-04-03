@@ -14,7 +14,7 @@
      			<div class="col-md-3 col-sm-6 col-xs-12">
      				<div class="intern-block border-blue">
      					<img src="https://res.cloudinary.com/ucheozoemena/image/upload/v1554314244/ucheozoemena_l2be72.jpg" alt="Uche Ozoemena">
-     					  <h6>Uche Ozoemena</h6>
+     					  <h6>Uchechukwu Ozoemena</h6>
                  <p>Frontend developer, lover of JavaScript and React, all around nice guy.</p>
                  <ul class="list">
                  <li><a href="https://twitter.com/ucheozman?lang=en" target="_blank"<i class="fab fa-twitter"></i></a></li>
