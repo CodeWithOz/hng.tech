@@ -50,11 +50,18 @@
       case '/interns/test' :
           require __DIR__ . '/views/interns/test.php';
           break;
+      case "/interns/somtozech":
+          require __DIR__ . '/views/somtozech.php';
       case '/interns/mayflower' :
           require __DIR__ . '/views/interns/mayflower.php';
           break;
      case '/interns/hackthievist' :
           require __DIR__ . '/views/hackthievist.php';
+          break;
+      case '/interns/mercyikpe' :
+          require __DIR__ . '/views/interns/mercyikpe.php';
+      case '/interns/aniebiet' :
+          require __DIR__ . '/views/interns/aniebiet.php';
           break;
       case '/interns/ucheozoemena':
           require __DIR__ . '/views/interns/ucheozoemena.php';
